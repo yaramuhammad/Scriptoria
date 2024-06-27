@@ -16,8 +16,8 @@ Before you begin, ensure you have the following software installed on your local
 First, clone the Laravel application repository from GitHub to your local machine.
 
 ```bash
-git clone <repository-url>
-cd <repository-directory>
+git clone https://github.com/yaramuhammad/Scriptoria.git
+cd Scriptoria
 ```
 ### 2. Install Dependencies
 2.1 Composer Dependencies
